@@ -11,4 +11,5 @@ starting email newsletter template
 
 ## Releasing on SFTP server
 
-    Before releasing on sftp server, make folder named: mm_DD_YYYY to contain index.html and images
+    Before releasing on sftp server, make folder named: MM_DD_YYYY to contain index.html and images
+    Give permissions to folder so content has proper unix configurations for public viewing.
